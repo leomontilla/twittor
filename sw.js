@@ -9,7 +9,7 @@ const CACHE_DYNAMIC = 'dynamic-v1';
 const CACHE_DYNAMIC_LIMIT = 50;
 
 const APP_SHELL_STATIC = [
-  '/',
+  // '/',
   'index.html',
   'manifest.json',
   'css/style.css',
